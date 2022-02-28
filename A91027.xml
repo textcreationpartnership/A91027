@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of faith, presented by Mr. Tho. Goodwin, Mr. Nye, Mr. Sydrach Simson, and other ministers, to the committee of Parliament for religion, by way of explanation to the proposals for propagating of the gospel.</title>
+            <author>Goodwin, Thomas, 1600-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91027</idno>
+            <idno type="STC">Wing P3496</idno>
+            <idno type="STC">Thomason E234_5</idno>
+            <idno type="EEBO-CITATION">99872749</idno>
+            <idno type="PROQUEST">99872749</idno>
+            <idno type="VID">125195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125195)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 40:E234[5a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of faith, presented by Mr. Tho. Goodwin, Mr. Nye, Mr. Sydrach Simson, and other ministers, to the committee of Parliament for religion, by way of explanation to the proposals for propagating of the gospel.</title>
+                  <author>Goodwin, Thomas, 1600-1680.</author>
+                  <author>Nye, Philip, 1596?-1672.</author>
+                  <author>Simpson, Sidrach, 1600?-1655.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Robert Ibbitson.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Nou: 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: The younger brothers advocate: or A line or two for younger brothers / by Champianus Northtonus. London : Printed by  W.W., in the yeare 1655.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="treatise">
+                  <pb n="1" facs="tcp:125195:1"/>
+                  <head>The Principles of Faith, preſented by Mr. <hi>Tho. Goodwin,</hi> Mr. <hi>Nye,</hi> Mr. <hi>Sydrach Simſon,</hi> and other Miniſters, to the Committee of Parliament for Religion, by way of explanation to the Propoſals for propagating of the Goſpel.</head>
+                  <p>
+                     <seg rend="decorInit">F</seg>Irſt, That the holy Scripture is that rule of knowing God, and living unto him, which who ſo doth not beleeve, but betakes himſelf to any other way of diſcovering truth, and the minde of God inſtead thereof<g ref="char:punc">▪</g> cannot be ſaved.</p>
+                  <p>2 <hi>Theſſ.</hi> 2. 10, 11, 12. Becauſe they received not the love of the <hi>Truth<g ref="char:punc">▪</g> that they might be ſaved;</hi> and for this cauſe God ſhall ſend them ſtrong deluſions, that they ſhould beleeve a Lye; <hi>that they all might be damned, who beleeve not the truth,</hi> but had pleaſure in unrighteouſneſs, verſ. 13. But we are bound to give thanks alway to God for you, Brethren, beloved of the Lord, becauſe God hath from the beginning <hi>choſen you to Salvation,</hi> through ſanctification of the Spirit, <hi>and belief of the truth,</hi> verſ. 14. whereunto he <hi>called you by our Goſpel,</hi> to the obtaining of the glory of our Lord Jeſus Chriſt.</p>
+                  <p>15. Therefore Brethren <hi>ſtand faſt, and hold the traditions which yee have been taught, whether by word, or our Epiſtle.</hi>
+                  </p>
+                  <p>1 <hi>Cor.</hi> 15. 1, 2, 3. Moreover, Brethren, I declare unto you <hi>the Goſpel,</hi> which I <hi>preached unto you,</hi> which alſo you have received, and wherein yee ſtand.</p>
+                  <p>By which <hi>alſo yee are ſaved,</hi> if yee keep in memory what I <hi>Preached</hi> unto you, <hi>un<g ref="char:EOLhyphen"/>leſs yee have beleeved in vain.</hi>
+                  </p>
+                  <p>For I delivered unto you <hi>firſt of all,</hi> that which I alſo received, how that Chriſt died for our ſins, <hi>according to the Scriptures.</hi>
+                  </p>
+                  <p>2 <hi>Cor.</hi> 1. 13. For <hi>we write none other things</hi> unto you then what you <hi>read,</hi> or <hi>ac<g ref="char:EOLhyphen"/>knowledge,</hi> and I truſt you ſhall acknowledge even to the end, compared with <hi>Acts</hi> 26. 22, &amp;c.</p>
+                  <p>Having therefore obtained help of God, I continue unto this day, witneſſing both to ſmall and great, <hi>ſaying none other things</hi> then thoſe which the <hi>Prophets, and</hi> Moſes <hi>did ſay ſhould come.</hi>
+                  </p>
+                  <p>Joh. 5. 39. <hi>Search the Scriptures, for in them you think to have eternall life;</hi> compared with <hi>Pſal.</hi> 147. 19. &amp; 20. verſes.</p>
+                  <p>He ſhewed <hi>his Word</hi> unto <hi>Jacob,</hi> his Statutes and judgements unto Iſrael, hee hath not dealt ſo with any Nation; and as for his Judgements they have not known them.</p>
+                  <p>And with <hi>Iohn</hi> 4. 22. Ye worſhip yee know not what, wee know what wee worſhip; for <hi>Salvation is of the</hi> Jews.</p>
+                  <p>2 <hi>Pet.</hi> 2. 1. But there were falſe Prophets alſo among the people, even as there ſhall be falſe teachers among you<g ref="char:punc">▪</g> 
+                     <hi>who privily ſhall bring in damnable hereſies,</hi> even de<g ref="char:EOLhyphen"/>nying
+<gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="2" facs="tcp:125195:2"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:125195:2"/>
+                     <pb n="2" facs="tcp:125195:3"/>
+the Lord that bought them, and <hi>bring upon themſelves ſwift deſtruction,</hi> com<g ref="char:EOLhyphen"/>pared with 2 <hi>Pet. 3. 1, 2. This ſecond Epiſtle</hi> (beloved) I now write unto you, in both which I ſtir up your pure minds by way of remembrance.</p>
+                  <p>That yee may be mindful of the <hi>words</hi> which were ſpoken before <hi>by the holy Pro<g ref="char:EOLhyphen"/>phets, and of the Commandements of us the Apostles of the Lord and Saviour.</hi>
+                  </p>
+                  <p>II. That there is a God, who is the Creator, Governour, and Judge of the World, which is to be received by faith, and every other way of the knowledge of him is inſuffi<g ref="char:EOLhyphen"/>cient, <hi>Heb.</hi> 11. 3.</p>
+                  <p>Through <hi>faith we underſtand that the Worlds were framed by the Word of God;</hi> ſo that things which are ſeen were not made of things which do appear.</p>
+                  <p>Ver. 6. But <hi>without faith</hi> it is <hi>impoſsible to pleaſe God;</hi> for he that cometh to God, <hi>must beleeve that he is,</hi> and that he is a <hi>rewarder</hi> of them that diligently ſeek him.</p>
+                  <p>
+                     <hi>Rom. 1. ver.</hi> 19. Becauſe that which may be known of <hi>God,</hi> is manifeſted in them, for God hath ſhewed it to them.</p>
+                  <p>Verſ. 20. For the <hi>Inviſible</hi> things of him from the <hi>Creation of the World</hi> are clearly ſeen, being underſtood by the things that are made, even his <hi>eternal power and God<g ref="char:EOLhyphen"/>head;</hi> ſo that they are without excuſe.</p>
+                  <p>Verſ. 21. Becauſe that when they knew God, they glorified him not as God, neither were thankful, but became vain in their imaginations, and their fooliſh heart was darkened.</p>
+                  <p>Verſ. 22. Profeſſing themſelves to be wiſe, they became fools, compared with—</p>
+                  <p>1 <hi>Cor.</hi> 1. 21. For after that, in <hi>the wiſdom of God,</hi> the world <hi>by wiſdom knew not God,</hi> it pleaſed God by the fooliſhneſſe of preaching to <hi>ſave them that beleeve.</hi>
+                  </p>
+                  <p>2 Theſ. 1. 8. To render <hi>vengeance</hi> on <hi>them</hi> that knew <hi>not God,</hi> and that obey not the Goſpel of our Lord Jeſus Chriſt.</p>
+                  <p>III. That this God who is the Creator, is eternally diſtinct from all the Creatures in his being, and bleſſedneſs.</p>
+                  <p>
+                     <hi>Rom. 1. v.</hi> 18. For the wrath of God is revealed from Heaven againſt all ungodli<g ref="char:EOLhyphen"/>neſs, and unrighteouſneſs of men, who hold the truth in unrighteouſneſs.</p>
+                  <p>Verſ. 25. Who <hi>changed the truth of God into a lye,</hi> and worſhipped and ſerved the <hi>creature</hi> more then the <hi>Creator, who is bleſſed for ever,</hi> Amen.</p>
+                  <p>1 <hi>Cor. 8 v.</hi> 5. For though there be that are called Gods, whether in heaven, or in earth, (as there be gods many, and lords many.)</p>
+                  <p>Verſ. 6. But <hi>to us</hi> there is but <hi>one God,</hi> the Father, of <hi>whom are all things,</hi> and we in him, and one <hi>Lord Jeſus Chriſt, by whom are all things,</hi> and we by him.</p>
+                  <p>IV. That this God is one in three Perſons, or ſubſiſtences.</p>
+                  <p>1 <hi>Joh.</hi> 5. 5. Who is this that overcometh the world, but he that beleeveth that Je<g ref="char:EOLhyphen"/>ſus is the Son of God.</p>
+                  <p>Verſ. 6. This is he that came by Water and Bloud, even Jeſus Chriſt, not by wa<g ref="char:EOLhyphen"/>ter only, but by water and bloud, and it is the Spirit than beareth witneſs, becauſe the Spirit is truth.</p>
+                  <p>Verſ. 7. For there are three that bear record in heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one.</p>
+                  <p>Verſ. 8. And there are three that bear witneſs in earth<g ref="char:punc">▪</g> the Spirit<g ref="char:punc">▪</g> the Water and the Bloud, and the <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <pb n="3" facs="tcp:125195:3"/>Ver. 9. If we receive the <hi>witneſs of men, the witneſs of God is greater, for this is the witneſs of God, which he hath teſtified of his Son.</hi> Compared with <hi>Joh.</hi> 8. 17.</p>
+                  <p>It is alſo written in your Law, that the teſtimony of two men is true.</p>
+                  <p>Verſ. 18. I am one that bear witneſs of my ſelf, and the father that ſent me, beareth witneſs of me.</p>
+                  <p>Verſ. 19. Then ſaid they unto him, Where is thy Father? Jeſus anſwered, Yee <hi>neither know me, nor my Father, if yee had known me, yee ſhould have known my Father alſo.</hi>
+                  </p>
+                  <p>Ver. 21. Then ſaid Jeſus unto them, <hi>Yee ſhall dye in your ſins.</hi>
+                  </p>
+                  <p>
+                     <hi>Mat.</hi> 28. 19. Go yee therefore, and <hi>teach</hi> all Nations, <hi>baptiſing them in the name of the Father, and of the Son, and of the Holy Ghoſt;</hi> Compared with <hi>Epheſians</hi> 4. 4. There is one body, and one ſpirit, even as yee are called in one hope of your calling.</p>
+                  <p>Ver. 5. <hi>One Lord, one Faith, one Baptiſm.</hi>
+                  </p>
+                  <p>Ver. 6. <hi>One God and Father of all,</hi> who is above all, and through all, and in you all.</p>
+                  <p>1 <hi>Joh.</hi> 2. 22. Who is a lyer, but he that denieth that Ieſus is the Chriſt? he is An<g ref="char:EOLhyphen"/>tichriſt that denieth the <hi>Father, and the Son.</hi>
+                  </p>
+                  <p>Verſ. 23. <hi>Whoſoever denieth the Son, the ſame hath not the Father;</hi> but he that acknowledgeth the Son, hath the Father alſo.</p>
+                  <p>2 Epiſt. <hi>Ioh.</hi> ver. 9. Whoſoever tranſgreſſeth, and abideth not in the Doctrin of Chriſt, hath not God, he that abideth in the doctrin of Chriſt, he hath both the Father, and the Son.</p>
+                  <p>Ver. 10. If there come any unto you, and bring not <hi>this doctrin,</hi> receive him not into your houſe, neither bid him <hi>God ſpeed.</hi>
+                  </p>
+                  <p>V. That Ieſus Chriſt is the only Mediator between God and man, without the knowledge of whom there is no ſalvation.</p>
+                  <p>1 <hi>Tim.</hi> 2. 4. Who will have all men to be ſaved, and to come to the knowledge of the truth.</p>
+                  <p>Verſ. 5. For there is <hi>one God,</hi> and one <hi>Mediator</hi> between God and men, the man <hi>Chriſt Ieſus.</hi>
+                  </p>
+                  <p>Ver. 6. Who gave himſelf a ranſome for all, to be teſtified in due time.</p>
+                  <p>2 <hi>Tim.</hi> 3. 15. And that from a childe thou haſt known the <hi>holy Scriptures,</hi> which are able to make thee wiſe unto ſalvation, through faith which is in Chriſt Ieſus.</p>
+                  <p>1 <hi>Ioh.</hi> 2. 22. Who is a <hi>lyar,</hi> but he that denieth that <hi>Ieſus</hi> is the Chriſt? He is <hi>An<g ref="char:EOLhyphen"/>tichriſt</hi> that denieth the Father, and the Son.</p>
+                  <p>
+                     <hi>Acts</hi> 4. 10. Be it known unto you all, and to all the people of Iſrael, <hi>That by the name of Jeſus Chriſt of Nazareth,</hi> whom yee crucified, whom God raiſed from the dead, even by him doth this man ſtand here before you whole.</p>
+                  <p>Verſ. 12. Neither is there <hi>ſalvation in any other,</hi> for there is none <hi>other name</hi> under heaven <hi>given among men, whereby we muſt be ſaved.</hi>
+                  </p>
+                  <p>1 <hi>Cor.</hi> 3. 10. According to the grace of God which is given unto mee, as a wiſe Maſter-builder, I have laid <hi>the foundation,</hi> and another buildeth thereupon. But let every one <hi>take heed</hi> how <hi>he buildeth thereupon.</hi>
+                  </p>
+                  <p>
+                     <pb n="4" facs="tcp:125195:4"/>Verſ. 11. For <hi>other foundation can no man lay,</hi> then that is laid, which is <hi>Jeſus Chriſt.</hi>
+                  </p>
+                  <p>VI. That this Jeſus Chriſt is the true God, 1 <hi>Joh.</hi> 5. 29. And wee know that the Son of God is come, and hath given us an <hi>underſtanding, that we may know him that is true.</hi> And we are in him that is true, even in his <hi>Son Jeſus Chriſt. This is the true God, and eternal life.</hi>
+                  </p>
+                  <p>
+                     <hi>Iſa</hi> 45. 21. There is <hi>no God</hi> elſe beſides me, a juſt God and <hi>Saviour,</hi> there is none beſide me.</p>
+                  <p>Verſ, 22. Look unto <hi>me,</hi> and be <hi>ye ſaved all the ends of the earth,</hi> for <hi>I am God,</hi> and there is none elſe.</p>
+                  <p>23. I have ſworn by my ſelf, the word is gone out of my mouth in righteouſneſſe, and ſhall not return, that unto me every knee ſhall bow, every tongue ſhall ſwear.</p>
+                  <p>24. Surely ſhall one ſay, in <hi>the Lord</hi> have I righteouſneſſe and ſtrength, even to <hi>him ſhall men come,</hi> and all that are incenſed againſt him ſhall be aſhamed.</p>
+                  <p>25. In the <hi>Lord</hi> ſhall all the ſeed of <hi>Iſrael</hi> be <hi>juſtified,</hi> and ſhall glory, which the Apoſtle applies unto Chriſt <hi>Rom.</hi> 14. 11, 12. and <hi>Philip.</hi> 2. 6. to the 12.</p>
+                  <p>VII. That this Jeſus Chriſt is alſo true man, 1 <hi>Joh.</hi> 4. 2. Hereby know yee the Spirit of God; every <hi>ſpirit</hi> that <hi>confeſſeth</hi> that <hi>Jeſus Chriſt is come in the fleſh, is of God.</hi>
+                  </p>
+                  <p>Verſ. 3. And every <hi>ſpirit</hi> that confeſſeth not that <hi>Jeſus Chriſt is come in the fleſh, is not of God. And this is that ſpirit of Antichriſt.</hi>
+                  </p>
+                  <p>2 Joh. 7. For <hi>many deceivers are entred into the world,</hi> who <hi>confeſſe not that Jeſus Chriſt is come in the fleſh. This is a Deceiver and an Antichriſt.</hi>
+                  </p>
+                  <p>VIII. That this Jeſus Chriſt is God and Man in one Perſon, 1 <hi>Tim.</hi> 3. 16. and <hi>without controverſie,</hi> great is the <hi>myſtery of godlineſſe. God was manifeſted in the fleſh,</hi> juſtified in the Spirit, ſeen of Angels, preached unto the Gentiles, beleeved on in the World, received up into glory.</p>
+                  <p>
+                     <hi>Matth.</hi> 16. 13. Jeſus asked his Diſciples, ſaying, whom do men ſay that <hi>I the Son of man am?</hi>
+                  </p>
+                  <p>Verſ. 14. They ſaid, ſome ſay thou art <hi>John the Baptiſt,</hi> &amp;c.</p>
+                  <p>Verſ. 15. But whom ſay yee that I am?</p>
+                  <p>Verſ. 16. <hi>Simon Peter</hi> anſwered, <hi>Thou art Chriſt the Son of the living God.</hi>
+                  </p>
+                  <p>Verſ. 17. Jeſus ſaid unto him, Bleſſed art thou, <hi>Simon Bar-Jona,</hi> for fleſh and blood hath not revealed it unto thee, but my Father which is in heaven.</p>
+                  <p>Verſ. 18. And I ſay unto thee, Thou art <hi>Peter,</hi> and <hi>upon this Rock I will build my Church,</hi> and the Gates of Hell ſhall not prevail againſt it.</p>
+                  <p>IX That this Jeſus Chriſt is our Redeemer, who by paying a Ranſome, and bearing our ſins, hath made ſatisfaction for them.</p>
+                  <p>
+                     <hi>Iſa.</hi> 53. 11. By <hi>his knowledge</hi> ſhall my righteous ſervant <hi>juſtifie many,</hi> for <hi>he ſhall bear their iniquities,</hi> compared with</p>
+                  <p>1 <hi>Pet.</hi> 2. 24. Who his own ſelf <hi>bare our ſins in his own body on the tree,</hi> that wee being dead to ſin, ſhould live to righteouſneſſe, by whoſe ſtripes yee were healed.</p>
+                  <p>25. For yee were as ſheep <hi>going aſtray,</hi> but are now returned unto the <hi>Shepherd and Biſhop of your ſouls.</hi>
+                  </p>
+                  <p>
+                     <pb n="5" facs="tcp:125195:4"/>1 <hi>Cor.</hi> 15 2. By which alſo you are ſaved, if you keep in memory what I preached unto you, <hi>unleſſe ye have believed in vain.</hi>
+                  </p>
+                  <p>Verſ. 3. For I delivered unto you <hi>firſt of all,</hi> that alſo which I received, how that <hi>Chriſt dyed for our ſins,</hi> according to the Scriptures.</p>
+                  <p>1 <hi>Tim.</hi> 2. 4. Who will have all men to be ſaved, and to come unto the <hi>knowledge of the truth.</hi>
+                  </p>
+                  <p>Verſ. 5. For there is one God, and one <hi>Mediator</hi> between God and men, the <hi>man Chriſt Jeſus.</hi>
+                  </p>
+                  <p>Verſ. 6. Who gave himſelf <hi>a ranſome</hi> for all, to be <hi>teſtified in due time,</hi> 1 Cor. 6. 20. Yee are bought with a price.</p>
+                  <p>X. That this ſame Lord Jeſus Chriſt is hee that was Crucified at <hi>Jeruſalem,</hi> and roſe again, and aſcended into heaven.</p>
+                  <p>
+                     <hi>Ioh.</hi> 8. 24. I ſaid therefore unto you, that ye ſhall dye in your ſins; for if ye beleeve <hi>not that I am he,</hi> ye ſhall <hi>dye in your ſins.</hi>
+                  </p>
+                  <p>Act. 4, 10. Be that <hi>known unto you all,</hi> and to all the <hi>people of Iſrael,</hi> that by the <hi>name of Jeſus Chriſt of Nazareth, whom ye crucified,</hi> whom God raiſed from the dead, even by him doth this man ſtand here before you whole.</p>
+                  <p>Verſ. 11. <hi>This is the ſtone</hi> which was ſet at nought of you builders, which is be<g ref="char:EOLhyphen"/>come the head of the corner.</p>
+                  <p>Verſ, 12. <hi>Neither is there ſalvation in any other,</hi> for there is none other name un<g ref="char:EOLhyphen"/>der heaven given among men, whereby we muſt be ſaved.</p>
+                  <p>
+                     <hi>Act.</hi> 10. 38. How God anointed Jeſus of Nazareth with the Holy Ghoſt, and with power, who went about doing good, and healing all that were oppreſſed of the Devil, for God was with him.</p>
+                  <p>Verſ. 39. And we are witneſſes of all things which he did, both in the land of the <hi>Iews</hi> and in <hi>Ieruſalem, whom they ſlew and hanged on a tree.</hi>
+                  </p>
+                  <p>Verſ. 40. <hi>Him</hi> God raiſed up the third day, and ſhewed him openly.</p>
+                  <p>Verſ. 41. Not to all the people, but unto witneſſes choſen before of God, even to us who did eat and drink with him, after he roſe from the dead.</p>
+                  <p>Verſ. 42. And he commanded us to preach unto the people, and to teſtifie that it is he, <hi>who was ordained of God, to be the Iudge of quick and dead.</hi>
+                  </p>
+                  <p>Verſ. 43. To <hi>him</hi> give all the Prophets witneſſe that <hi>through his Name, whoſo<g ref="char:EOLhyphen"/>ever believeth in him ſhall receive remiſsion of ſins.</hi>
+                  </p>
+                  <p>1 <hi>Cor.</hi> 15. 2. By which alſo ye are ſaved, if ye keep in memory what I preached unto you, unleſſe ye have beleeved in vain.</p>
+                  <p>Verſ. 3 For I delivered unto you firſt of all that which I alſo received, how that Chriſt dyed for our ſins, according to the Scriptures.</p>
+                  <p>Verſ. 4. And that he was buried, and that he roſe again the third day, according to the Scriptures.</p>
+                  <p>Verſ. 5. And that he was ſeen of <hi>Cephas,</hi> then of the Twelve.</p>
+                  <p>Verſ. 6. After that he was ſeen of above five hundred brethren at once, of whom the greater part remain unto this preſent, but ſome are faln aſleep.</p>
+                  <p>Verſ 7. After that he was ſeen of <hi>Iames,</hi> then of all the Apoſtles.</p>
+                  <p>Verſ. 8. And laſt of all he was ſeen of me alſo.</p>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:125195:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:125195:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:125195:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:125195:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:125195:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:125195:7"/>
+                  <pb n="6" facs="tcp:125195:8"/>
+                  <p>
+                     <hi>Act.</hi> 22. 8. Who art thou Lord? and he ſaid, I am Jeſus of Nazareth.</p>
+                  <p>
+                     <hi>Act.</hi> 2. 36. Therefore let all the houſe of Iſrael know aſſuredly, that God hath made that ſame Ieſus, whom ye crucified, both Lord and Chriſt. Verſ. 37. Now when they heard this they were pricked in their hearts, and ſaid unto <hi>Peter,</hi> and to the reſt of the Apoſtles, Men and Brethren, What ſhall wee do? Verſ, 38. Then <hi>Peter</hi> ſaid unto them, Repent, and be baptized every one of you in the name of Ieſus Chriſt for the remiſſion of ſins, and ye ſhall receive the gift of the Holy Ghoſt.</p>
+                  <p>XI. That this ſame Ieſus Chriſt, being the onely God and Man in one Perſon, re<g ref="char:EOLhyphen"/>mains for ever a diſtinct Perſon from all Saints and Angels, notwithſtanding their union and communion with him.</p>
+                  <p>
+                     <hi>Col</hi> 2. 8. Beware leſt any man ſpoyl you, through Philoſophy and vain deceit, af<g ref="char:EOLhyphen"/>ter the tradition of men, after the rudiments of the world, and not after Chriſt.</p>
+                  <p>Verſ 9. For in him dwelleth all the fulneſſe of the God-head bodily.</p>
+                  <p>Verſ. 10. And ye are compleat in him, which is the head of all Principality and Power. Verſ. 19. And not holding the head, from which all the body by joynts and bands, having nouriſhment miniſtred, and knit together, increaſeth with the increaſe of God.</p>
+                  <p>1 <hi>Tim</hi> 316. God manifeſted in the fleſh, beleeved on in the world.</p>
+                  <p>XII. That all men by nature are dead in treſpaſſes and ſins, and no man can be ſa<g ref="char:EOLhyphen"/>ved unl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he b<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> born again repent, and beleeve, <hi>Ioh.</hi> 3. 3. Ieſus anſwered and ſaid unto him, Verily, verily, I ſay unto thee, Except a man be born again he cannot ſee the King<g ref="char:EOLhyphen"/>dome of God. Verſ. 567. Ieſus anſwered, Verily, verily, I ſay unto thee, Except a man be born of water<g ref="char:punc">▪</g> and of the Spirit, he cannot enter into the Kingdome of God; That which is born of the fleſh is fleſh, and that which is born of the Spirit is Spirit. Marvel not that I ſaid unto thee, Ye muſt be born again. Verſ. 10. Ieſus anſwered, and ſaid unto him, Art thou a Maſter in Iſrael, and knoweſt not theſe things?</p>
+                  <p>
+                     <hi>Act.</hi> 17. 30, 31. And the times of this ignorance God winked at, but now com<g ref="char:EOLhyphen"/>mandeth all men every where to repent, becauſe he hath appointed a day wherein hee will judge the world in righteouſneſſe.</p>
+                  <p>
+                     <hi>Act.</hi> 26. 17 18, 19, 20. Delivering thee from the people, and from the Gentiles, unto whom I now ſend thee, To open their eyes, and to turn them from darkneſſe to light, and from the power of Satan unto God, that they may receive forgiveneſſe of ſins, and inheritance among them that are ſanctified by faith in me. Whereupon I was not diſ<g ref="char:EOLhyphen"/>obedient to the heavenly Viſion, but ſhewed firſt to them at <hi>Damaſcus,</hi> and at <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> and throughout all the coaſts of <hi>Iudea,</hi> and then to the Gentiles, that they ſhould repent<g ref="char:punc">▪</g> and turn to God, and do works meet for repentance, <hi>Luke</hi> 24. 47. that repen<g ref="char:EOLhyphen"/>tance and forgiveneſſe of ſins ſhould be preached in his Name among all Nations.</p>
+                  <p>Act 20 20, 21. I have ſhewed you, and have taught you publickly, and from houſe to houſe, teſtifying both to Iews and Greeks repentance towards God, and faith to<g ref="char:EOLhyphen"/>wards our Lord Ieſus Chriſt.</p>
+                  <p>
+                     <hi>Ioh.</hi> 5. 24, 25. Verily, verily, I ſay unto you, he that heareth my word, and beleeveth on him that ſent me, hath everlaſting life, and ſhall not come into condemnation, but is paſſed from death unto life. Verily, verily, I ſay unto you, the hour is coming, and now is, when the dead ſhall hear the voice of the Son of God, and they that hear ſhall live.</p>
+                  <p>
+                     <pb n="7" facs="tcp:125195:8"/>XIII. That we are juſtified and ſaved by grace, and faith in Ieſus Chriſt, and not by works.</p>
+                  <p>
+                     <hi>Acts</hi> 15. 24. For as much as we have heard, that certain which went out from us have troubled you with words, ſubverting your ſouls; ſaying, <hi>Yee muſt be circumci<g ref="char:EOLhyphen"/>ſed, and keep the Law,</hi> compared with <hi>Gal. 1. 6, 7, 8. 9. I marvel that you are ſo ſoon removed from him that called you into the grace of Chriſt, unto another Goſpel which is not another; but there are ſome that trouble you, and would pervert the Gospel of Chriſt; but though we, or an Angel from heaven preach another Goſpel unto you, then that which we have preached unto you, let him be accurſed.</hi> As wee ſaid before, ſo ſay I now again, <hi>If any man preach any other Goſpel unto you, then that ye have received, let him be accurſed,</hi> Gal 5.</p>
+                  <p>Ver. 2. 4, 5. Behold, I <hi>Paul</hi> ſay unto you, that if yee be circumciſed, Chriſt ſhall profit you nothing; Chriſt is become of none effect to you, whoſoever of you are juſtifi<g ref="char:EOLhyphen"/>ed by the Law, ye are faln from grace, for we through the Spirit wait for the hope of righ<g ref="char:EOLhyphen"/>teouſeſs by faith. <hi>Rom. 9. v.</hi> 31, 32. 33. But <hi>Iſrael,</hi> which followed after the Law of righ<g ref="char:EOLhyphen"/>teouſneſs, hath not attained to the Law of righteouſneſſe<g ref="char:punc">▪</g> wherefore? becauſe they ſought it not by faith, but as it were by the works of the Law; for they ſtumbled at that ſtumbling ſtone; As it is written, Behold I lay in Sion a ſtumbling ſtone and rock of offence, and whoſoever beleeveth on him ſhall not be aſhamed, compared with <hi>Rom. 10. v.</hi> 3, 4. For they being ignorant of Gods righteouſneſs, and going about to eſtabliſh their own righteouſneſs, have not ſubmitted themſelves unto the righteouſ<g ref="char:EOLhyphen"/>nes of God, for Chriſt is the end of the Law for righteouſneſs for every one that beleeveth</p>
+                  <p>
+                     <hi>Rom.</hi> 1. 16, 17. I am not aſhamed of the Goſpel of Chriſt. for it is the power of God unto ſalvation to every one that beleeveth, to the <hi>Jew</hi> firſt, and alſo to the <hi>Greek;</hi> for therein is the rightnouſneſs of God revealed from faith to faith, as it is written. <hi>The juſt ſhall live by faith,</hi> compared with <hi>Gal.</hi> 3. 11. But that no man is juſtified by the Law in the ſight of God, it is evident; for, <hi>the juſt ſhall live by faith.</hi>
+                  </p>
+                  <p>
+                     <hi>Eph.</hi> 2. 8, 9. 10. For by grace ye are ſaved through faith, and that not of your ſelves, it is the gift of God, not of works, leaſt any man ſhould boaſt; for we are his work<g ref="char:EOLhyphen"/>manſhip created in Chriſt Jeſus unto good works, which God hath before ordained that we ſhould walk in them.</p>
+                  <p>XV. That to continue in any known ſin, upon what pretence or principle ſoever, is damnable.</p>
+                  <p>
+                     <hi>Rom.</hi> 1. 32. Who knowing the Judgement of God, that they which commit ſuch things are worthy of death, not onely to do the ſame, but have pleaſure in them that do them.</p>
+                  <p>
+                     <hi>Rom.</hi> 6. v. 1, 2. What ſhall we ſay then? ſhall wee continue in ſin that grace may abound? God forbid; How ſhall wee, that are dead to ſin, live any longer therein? compared with verſ 15. and 16. What then? ſhall wee ſin, becauſe wee are not under the Law, but under Grace? God forbid. Know yee not, that to whom yee yeeld your ſelves ſervants to obey, his ſervants yee are to whom yee obey, whether of ſin unto death, or of obedience unto righteouſneſſe?</p>
+                  <p>1 <hi>Iohn</hi> 1. 6. 8. If we ſay that we have fellowſhip with him, and walk in dark<g ref="char:EOLhyphen"/>neſs <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>deceive our ſelves, and</hi>
+                  </p>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:125195:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:125195:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:125195:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:125195:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:125195:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:125195:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:125195:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:125195:12"/>
+                  <pb facs="tcp:125195:13"/>
+                  <p>
+                     <hi>Chap.</hi> 3 ver. 3. And every man that hath this hope in him purifieth himſelf even as he is pure. Verſ. 4, 5, 6, 7, 8. Whoſoever committeth ſin, tranſgreſſeth alſo the Law, for ſin is a tranſgeſſion of the Law, And yee know that hee was manifeſted to take away our ſins, and in him is no ſin; whoſoever abideth in him ſinneth not. Whoſo<g ref="char:EOLhyphen"/>ever ſinneth, hath not ſeen him, neither known him<g ref="char:punc">▪</g> Little children, let no man de<g ref="char:EOLhyphen"/>ceive you; he that doth righteouſneſs is righteous; he that committeth ſin is of the Devil, for the Devil ſinneth from the beginning, for this purpoſe the Son of God was manifeſted, that he might deſtroy the works of the Devil.</p>
+                  <p>2 <hi>Pet.</hi> 2. 19, 20. While they promiſe them liberty they themſelves are the ſervants of corruption; for of whom a man is overcome, of the ſame is he brought in bon<g ref="char:EOLhyphen"/>dage. For if after they have eſcaped the pollutions of the world, through the know<g ref="char:EOLhyphen"/>ledge of the Lord and Saviour Jeſus Chriſt, they are again intangled therein, and overcome, the latter end is worſe with them then the begining.</p>
+                  <p>
+                     <hi>Rom.</hi> 8. 13. For if ye live after the fleſh, ye ſhall dye, but if ye mortifie the deeds of the fleſh by the Spirit, ye ſhall live.</p>
+                  <p>XV. That God is to be worſhipped according to his own will, and whoſoever ſhall forſake and diſpiſe all the duties of his worſhip, cannot be ſaved.</p>
+                  <p>
+                     <hi>Jer.</hi> 10. 15. Poure out thy fury upon the heathen that know thee not, and upon the families that call not upon thy name, for they have eaten up <hi>Jacob,</hi> and devou<g ref="char:EOLhyphen"/>red him, and conſumed him, &amp;c.</p>
+                  <p>
+                     <hi>Pſal.</hi> 14. 4. Have all the workers of iniquity no knowledge? who eat up my people as they eate bread, and call not upon the Lord.</p>
+                  <p>
+                     <hi>Jude</hi> verſe 18, 19, 20, 21. How they told you there ſhould be mockers in the laſt times, ſhall walk after their owne ungodly luſts, theſe be they who ſeparate them<g ref="char:EOLhyphen"/>ſelves, ſenſuall, not having the Spirit. But yee beloved, building up your ſelves in your moſt holy faith, praying in the holy Ghoſt, keep your ſelves in the love of God, looking for the mercy of our Lord Jeſus Chriſt unto eternal life.</p>
+                  <p>
+                     <hi>Rom.</hi> 10. 13. For whoſoever ſhall call on the name of the Lord; ſhall be ſaved.</p>
+                  <p>XVI. That the dead ſhal riſe, and that there is a day of judgement wherein all ſhal appear, ſome to goe into everlaſting life, and ſome into everlaſting condemnation.</p>
+                  <p>1 <hi>Tim.</hi> 1. 19. 20. Holding faith and a good conſcience, which ſome having put away, concerning faith have made ſhipwrack; of whom is <hi>Himenaeus</hi> and <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> whom I have delivered to Satan, that they may learn not to blaſpheme, compared with 2 <hi>Tim.</hi> 2. 17, 18. And their word will eat as doth a canker, of whom is <hi>Hymenaeus</hi> and <hi>Philetus,</hi> who concerning the faith have erred, ſaying, That the Reſurrection is paſt already, and overthrow the faith of ſome, Act. 17. 30, 31. And the times of this ignorance God winked at, but now commandeth all men every where to repent, becauſe he hath appointed a day wherein he will judge the world in righteouſneſſe.</p>
+                  <p>
+                     <hi>John</hi> 5. 28, 29. All that are in the grave ſhall hear his voyce, and ſhall come forth, they that have done good unto the reſurrection of life, and they that have done evil to the reſurrection of damnation; compared with 1 <hi>Cor.</hi> 15. 19. If in this life onely wee have hope in Chriſt, wee are of all men moſt miſerable.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="imprimatur">
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Henry Scobell.</signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>Printed at <hi>London</hi> for <hi>Robert Ibbitſon.</hi> 1654.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:125195:13" rendition="simple:additions"/>
+                  <p>The younger Brothers.</p>
+                  <p>ADVOCATE: Or a line or two for Younger Brothers.</p>
+                  <p>
+                     <hi>With their</hi> PETITION to the <hi>PARLIAMENT.</hi>
+                  </p>
+                  <p>By <hi>Champianus Northtonus.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>W. W.</hi> in the yeare 1655.</p>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb facs="tcp:125195:14"/>
+                  <head>The younger Brothers Ad<g ref="char:EOLhyphen"/>vocate, or a line or two for younger Brothers.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg> Having long expected (amongſt the multitude of papers, and promiſed Reformations, that theſe Parlimentary years, and reforming de<g ref="char:EOLhyphen"/>formed times have produced) to have found ſome Champion that would have ſtood up, ſome Heroicall compaſſionate ſpirit that would have taken into conſideration the poor and deſpicable condition and pro<g ref="char:EOLhyphen"/>viſion of younger Brothers; I thought that there would have been ſome amongſt the reforming Combatants of that fraternity, that would have been mindfull of that ſo grand a preſſure ſtill continu<g ref="char:EOLhyphen"/>ing with us, but whether it be through the multitude of their im<g ref="char:EOLhyphen"/>ployments, or that they have acquired to themſelves (great poſſeſſi<g ref="char:EOLhyphen"/>ons and ſufficient maintenance) being now careleſſe and forgetfull of the welfare of their fellow brethren, or whether it be through want of remembrance and ingenuity, as not taking notice of it as ſo great a grievance<g ref="char:punc">▪</g> in regard of the long uſe it hath had with us, there being nothing ſo abſurd in nature, ſo horrible in it ſelf, or ſo ridiculous in reaſon and common ſence, which long uſe will not make plauſible and acceptable; cuſtome making good ſeem evill, and evill good. That it might not altogether be buried in oblivion, and that none hath ſeemed to be ſufficiently mindfull of it, and
+<pb n="3" facs="tcp:125195:14"/>
+that it appears to me (as yet) ſo diſſonant unto Scripture, and na<g ref="char:EOLhyphen"/>turall reaſon, ſo oppoſite to common equity, which ought to be the foundation and chief corner ſtone of all Lawes.</p>
+                  <p>I have been moved, though moſt unworthy, though moſt un<g ref="char:EOLhyphen"/>ſufficient, curſorily and as confuſedly to diſcover ſome thoughts concerning it, that which I was moſt unwilling to do, not onely in regard of my diſability with other diſadvantages, but in reſpect of the potencie, and the prevalencie of its adverſaries, though it is a thing worthy my labour, yet my labour is far unworthy of it, for I find every man is not a fit Champion for truth; one may be as truly and really in poſſeſſion of a truth (as a ſouldier of a Fortreſs) yet may be forced to loſe it, but they that beſt can, will not, and thoſe that worſt may ſometimes holds the light. That it ſhould not be forgotten, and ſeeing likewiſe this unnaturall and unequall Law or evill uſe, for I can not call it ſo properly a cuſtom, but a corrup<g ref="char:EOLhyphen"/>tion (for as I remember the Lawyers ſay, that <hi>Conſuetudo eſt jus non ſcriptum, nunquam repugnans rationi naturali.</hi> A cuſtome ought not to be contrary to the Law of nature) which by long continuance in the Kingdom hath got ſuch a generall allowance, it being ſo commonly and ſo frequently practiſed, together with the conſiderations of the diſquietneſſe and dangerous effects it often produceth; the diſcord and diſhonor it brings to houſes and families, and likewiſe the miſeries, contempt, and reproach to the younger brothers themſelves; I have adventured to put in view, though in ſo ragged and uneven a manner, theſe undigeſted lines onely as a remembrancer, hinting at things, hoping thereby to put in mind and to awaken the hearts and reſolutions of ſome of that Fraternity, of greater abilities and advantages to purſue it to ſome better reformation.</p>
+                  <p>In which deſign let us not be diſcouraged, nor diſcountenanced, notwithſtanding, our elder brothers are advanced in power and au<g ref="char:EOLhyphen"/>thority above us, but let us rather be animated that our cauſe is juſt, and our determiners we hope not unjuſt, we ſhall not be un<g ref="char:EOLhyphen"/>reaſonable, let us not deſpair, for greater things then this have been effected: let younger brothers likewiſe conſider, the miſery, the diſeſteem, this uſe, this vaſt difference bringeth on them, the Elder injoying large poſſeſſions, the younger having not ſufficient main<g ref="char:EOLhyphen"/>tenance, the Elder gentlemen, the Younger beggers, as if they were
+<pb n="4" facs="tcp:125195:15"/>
+baſtards and no ſonnes, ſervants and no children, this is ſo uſually practiſed, that the very name of a younger brother is a word of contempt, and an expreſſion of want and ſlender meanes, and a<g ref="char:EOLhyphen"/>mongſt other Nations reckoned as one of the poor companies, ſome commiſerating their poor condition and maintenance, that the Elder and Younger being bretheren by birth of ſo near relation, of the ſame fleſh and blood, ſhould be ſo ſevered, ſo disjoyned, and ſo far off in fortunes; ſome again deriding at the ill policie of our Kingdome, and careleſsneſſe of ſome Parents in bringing them up as their children, but not maintaining them as their ſons, in giving them a generous breeding, but leaving them a ſlender allowance for the continuance of it, dealing with them as <hi>Pharaoh</hi> dealt with the children of <hi>Iſrael,</hi> that would have them make brick, but would give them no ſtraw, that would have them Gentlemen, but will give them little or nothing for the ſupport and maintenance of it.</p>
+                  <p>This education taking ſuch a deep impreſſion in many, as ha<g ref="char:EOLhyphen"/>ving firſt taken poſſeſſion in them, (none are ignorant of the force of education) the ceaſing of which is moſt harſh to the ſoul, it is better never to have been godly, then after to turn apoſtate, it is happier never to have been in plenty, then after it to fall into want; it is the ſpeech of depoſed <hi>Dionyſius,</hi> they are happy ſaith he that have been unbleſſed from their youth, it was the wiſh of a noble Queen in miſery, that ſhe had not been of the royall blood; ſo younger, brothers may often wiſh that they had been rather the ſons of ſome yeomen then of Knights. They being often left to the diſpoſitions and dependance of their elder brothers, and ſo conſe<g ref="char:EOLhyphen"/>quently ſervants, if not vaſſalls at leaſt to their humours, and many times upon the leſt diſtaſte and difference are caſheer'd, and left to the four windes; It is written the Elder ſhall ſerve the younger, but not that the younger ſhall be a ſlave to the Elder.</p>
+                  <p>Some I confeſſe being more fairly dealt with (as having ſome<g ref="char:EOLhyphen"/>what more conſiderate Parents) by leaving them more certainty, penſion or allowance, not depending ſo much upon the will of the Elder, but commonly it is of that quality and quantity, that it will ſcarcely afford them a ſingle competence, neither is it any waies proportionoble to their Fathers eſtate; it being like<g ref="char:EOLhyphen"/>wiſe generally of that nature, and their education ſuch, that they
+<pb n="5" facs="tcp:125195:15"/>
+cannot imploy it for their beſt advantage, ſo that they are as it were enforced to be idle And if naturall deſires prevail, they muſt be forced either to be one of <hi>Origens</hi> diſciples, or intercede for the publick tolleration of Stewes, they having allowance in ſome Na<g ref="char:EOLhyphen"/>tions as a neceſſary evill, or elſe petition for the reedifying of Cloyſters, there to live in ſolitarines from the view of the world, there to be dieted with <hi>Agnu. Caſtu.</hi> and <hi>Sacru. Saturni;</hi> by the diſſolutions of which our Anceſtors took away that advantage from us, with others, eſtabliſhing nothing in lieu thereof.</p>
+                  <p>Now if <hi>viriles appetitus,</hi> are predominant (which God and Nature doth not forbid) they muſt but Tantalize, and as Priſo<g ref="char:EOLhyphen"/>ners look through the Grate, ſo that they muſt either be torne in pieces by predominate affections, burned with feavers or drown<g ref="char:EOLhyphen"/>ed in dropſies; or if they have not the gift of abſtinence, they and their children are commonly precipitated into extream indigency and miſeries, being forced to lay aſide all badges of their birth and education; ſo that which way ſoever they turn, <hi>lupum auribus te<g ref="char:EOLhyphen"/>nent,</hi> they muſt either burn or ſtarve, which things are moſt grie<g ref="char:EOLhyphen"/>vous to the ſoul, and which the temper of many ſpirits cannot brook. It is better never to have been a <hi>Helen</hi> then after to become a <hi>Hecuba,</hi> the want alone of a foregone joy is troubleſome, how much more when it declines to miſerable extremities, <hi>Jobs</hi> aflictions were more piercing when hee remembred the daies of old: <hi>David,</hi> a man after Gods own heart, complaineth that his preſent calamities more compleated his grief in regard of his former free<g ref="char:EOLhyphen"/>dome; Adverſity is in his full ſtrength coming upon him, who for<g ref="char:EOLhyphen"/>merly hath been proſperous, for the common enduring of miſerie dul<g ref="char:EOLhyphen"/>leth the edge thereof, and maketh it much leſſe ſenſible to him whom cuſtome hath made familiar with grief.</p>
+                  <p>Theſe exigencies having with ſome ſuch an operation, that when they cannot, it may be they know not how to maintain them<g ref="char:EOLhyphen"/>ſelves by honeſt and lawful waies, are driven to take indirect courſes, and by conſorting themſelves with ill company, acquainting them<g ref="char:EOLhyphen"/>ſelves with ſhifts, and practiſing how to deceive, hence it is that many are driven to beg, cheat, ſteal, and many times hanged for theft; then what can be more ignominous, more diſgracefull to the Family, the ſonns deſcredit muſt needs be the fathers diſgrace,
+<pb n="6" facs="tcp:125195:16"/>
+and what can be more offenſive to the quietneſſe of a nation. It is this inequality which compelle th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> many brave ſpirits deſperately to run into the gulf of diſcontent, to turn Pirates, Turkes, Fugitives, Hectors, Knights of the blade; nay, any thing, it is like <hi>Polygamy</hi> amongſt the Turkes, that hath made almoſt all the Country robbers, being forced thereunto for the maintenance of their wives.</p>
+                  <p>1. But our inſociable Inheritors as one calls them, may ſay to us, that the Lawes being ſuch, there is no remedie but patience; you muſt be content, and frame your minds according to your lots, o<g ref="char:EOLhyphen"/>therwiſe you do but bite the chain in which you are tyed, and ſo wrong your teeth.</p>
+                  <p>Thus we ſee how <hi>Iſſachart</hi> like, they would have us couch down between our burthen, <hi>ſed meliora ſpero,</hi> and perſwade us to a ſtupidi<g ref="char:EOLhyphen"/>ty, not patience; It is no breach of content, nor repining againſt our Maker, for to complain that their ſufferings are unjuſt as offered by men, and by lawfull means to ſeek redreſſe, content (as Divines ſay) is an humble and willing ſubmitting our ſelves to Gods plea<g ref="char:EOLhyphen"/>ſure, and not to murmure at him, they would deal with us as it is related that Father <hi>Parſons</hi> delt with <hi>Elliot,</hi> who being through his means defeated of his goods; <hi>Elliot</hi> making addreſſes, and expect<g ref="char:EOLhyphen"/>ing reliefe from him, but inſtead thereof he gave him a lecture of pa<g ref="char:EOLhyphen"/>tience, humility, and mortification, and to go into a Cloyſter; the uſuall Cordialls for diſcontents in that religion, the benefit of which refuge we here cannot enjoy; but why may not this argument bee retorted upon them, why can not the Elder of many Younger, be con<g ref="char:EOLhyphen"/>tent to accommodate their mind<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and frame their Education ac<g ref="char:EOLhyphen"/>cording to the firſt born of ſo many younger brethren, and par<g ref="char:EOLhyphen"/>ticipate of the good and ill fortunes of their Parents, why ſhould it all go upon the ſcore of the younger.</p>
+                  <p>2. But they may further alledge, that this law is not of ſuch a nature, but that it is in the Parents power to mitigate.</p>
+                  <p>Sometimes and in ſome caſes they may, but generally they can<g ref="char:EOLhyphen"/>not, eſpecially the Father dying inteſtate or in his full ſtrength, <hi>&amp;c.</hi> the elder like a ravenous beaſt ſeiſeth on all, and leaving but
+<pb n="7" facs="tcp:125195:16"/>
+the excrements and carkaſe to the reſt; how naked then are they left, they having but part of the goods of which the Nobles and Gentle<g ref="char:EOLhyphen"/>men are generall not ſo fully ſtored with, as alſo in caſe of intayles with other devices, which are too tedious to review, but if it be (as they ſay) a law which rather inviteth then commandeth Parents ſo unequally to proportion their Eſtates: We ſee notwithſtanding by manyfold examples, how men generally are apt to incline to the worſt, and how ill examples more in force, then good precepts, they meaſuring themſelves by themſelves, and comparing them<g ref="char:EOLhyphen"/>ſelves amongſt themſelves, but go not according to the pattern, how frequently is this unequall dealings practiſed even of thoſe who have power, ability, and poſſeſſion to do otherwiſe: under a vaine pretext of upholding their houſe and name, contrary to nature, reli<g ref="char:EOLhyphen"/>gion, and right reaſon, forgetting their Chriſtian names to re<g ref="char:EOLhyphen"/>member their ſirnames, not ſo well conſidering that Gods waies and Lawes are the beſt to uphold houſes and Families) eſpecially ha<g ref="char:EOLhyphen"/>ving a Law and practiſe to back them, and will ſtill be practiſed, unleſſe there be a Law as there is in ſome places, obliging them to the contrary; If you ſay that other Kingdomes have the ſame cu<g ref="char:EOLhyphen"/>ſtomes, I ſay, if they have, they retain them not upon ſound prin<g ref="char:EOLhyphen"/>ciples, however I am ſure where they do take place, they are allowed greater priviledges, and advantages then is here tollerated.</p>
+                  <p>3. They may likewiſe object to us, that Law being ſo antient, and ſo long eſtabliſhed, and ſo ingroſſed in our Lawes and natures, ſo conſtantly practiſed, that if it be an error, yet <hi>communis error fa<g ref="char:EOLhyphen"/>cit jus,</hi> however that it may be difficult and dangerous to alter it.</p>
+                  <p>We cannot deny but that it hath been of too long ſtanding, the more hath been our injurie, but let them conſider, that it is the equity and not the Antiquity of Lawes which makes them venerable, <hi>jus permanebit ſemper nec unquam mutetur, lex vero ſcripta ſaepius,</hi> ſaith <hi>Silvi.</hi> Antiquity is an argument for nothing but truth, equity, and goodneſſe. That Law was eſtabliſhed by corrupt principles, may well and as wiſely be altered by the Suprem Authority, acting upon better principles, true prudence, and policie conſiſting not in an obſti<g ref="char:EOLhyphen"/>nate
+<pb n="8" facs="tcp:125195:17"/>
+retaining old cuſtomes, but in the electing or relecting, in con<g ref="char:EOLunhyphen"/>tinuing or changing of forms according to better information and ſounder principle, <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccording to the circumſtances of times, places, and perſons; To what end otherwiſe do aſſemblies meet, neither can there be more danger in this, then in the Alteration of other things, the fabrick being to be altered, this may likewiſe be put into the build<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>That it may better appear to be unnaturall and unreaſonable, and not agreeable to holy writ, let me go a little further, how it had its firſt original; Certainly for the Antiquity of it, it will appear but a Muſhom of yeſterday in compariſon of <hi>Moſes</hi> diviſion, and <hi>Job, Moſes</hi> contemporary; you cannot find any ſuch Law or practiſe be<g ref="char:EOLhyphen"/>fore <hi>Moſes,</hi> nor long after, but contrary, I am ſure from the beginning it was not ſo. It having had its firſt inſtitution, when heathen, infi<g ref="char:EOLhyphen"/>dells, or tyrants had the reignes of government in their hand; mo<g ref="char:EOLhyphen"/>ved thereunto by tyrannicall and ambitious, and Turkiſh principles, and in continuance of time the evill cuſtomes and examples of ſuch came to be imitated by inferiors, and ſo turned into Lawes, it being brought unto us by the Conqueror, our more antient Lawes (as ap<g ref="char:EOLhyphen"/>pears by <hi>Lucius,</hi> following the counſell of <hi>Elutherius</hi> in making Lawes for his Kingdome) was taken out of the word of God, and grounded on the Law of God and nature, and not ſo much from the Laws of <hi>Rome,</hi> notwithſtanding <hi>Caeſar</hi> in his Com. with other am<g ref="char:EOLhyphen"/>bitious Romans, attribute ſo much to themſelves for the civili<g ref="char:EOLhyphen"/>zing of others (as the French now a daies for Apiſh apparell, we being indeed more then baboniſh ſo far to humour them in it, whereby we do not a little undervalew our ſelves) for ſaith he, the Lawes of <hi>Rome;</hi> and <hi>Caeſar</hi> may be reproved, but not the Laws of God, as it ma<g ref="char:EOLhyphen"/>nifeſtly appeaes likewiſe by our Kentiſh Gavel kind: And I am ſure God gave no ſuch direction at the firſt, as is manifeſt by the practiſe and precept of holy writ before and after <hi>Moſes,</hi> it is clear likewiſe that <hi>Abraham</hi> by vertue of the Law of God written in his heart, &amp; the Law of nature, would have devided his reall inheritance in the promiſed Land between <hi>Iſaac</hi> and <hi>Ishmael,</hi> had he not had a ſpecial &amp; extraordinary command (which precept was in relation to the ſpi<g ref="char:EOLhyphen"/>rituall promiſe) however thoſe gifts was of ſuch a quantity and qua<g ref="char:EOLhyphen"/>lity, that he and his poſterity became Princes and Dukes. It is the o<g ref="char:EOLhyphen"/>pnion
+<pb n="9" facs="tcp:125195:17"/>
+of the learned, that <hi>Ishmael</hi> was anſwerable in outward Eſtate to <hi>Iſaac,</hi> though not in the ſpirituall promiſed land, neither was that difference made by <hi>Iſaac</hi> and <hi>Jacob</hi> to their Children. <hi>Moſes</hi> likewiſe gi<g ref="char:EOLhyphen"/>veth but a double portion to the eldeſt; what better Moderator can we have to determine what is unnaturall and unreaſonable then this authority, which I hope none dare ſay but it is of infinite more value then humane reaſon; it is the ſaying of a heathen, that Law ought to be the reaſon and mind of God, differing juſt and unjuſt.</p>
+                  <p>But you may ſay that <hi>Moſes</hi> doth not forbid but that the eldeſt may have more then a double? <hi>Anſ.</hi> It appears that rather before this Law was made, Parents were ſo far from doing as is done with us, that they many times gave not ſo much to the Eldeſt as to the youngeſt, or elſe divided it, conceiving it may be, that the Eldeſt having ſome authority by their Birth-right, and advantage in years above the youngeſt, would quickly advance their eſtate to a greater proportion, as alſo too much lord it over their bretheren, of the ſame fleſh &amp; blood. Now that authority (in proceſſe of time) over their bretheren being decayed, which it may be cauſing too great a neglect and contempt of him (wiſe Legiſlators make their Lawes a<g ref="char:EOLhyphen"/>gainſt thoſe enormities which they ſee are generally predominate in the people) it was thought fit to enact, that they ſhould have a double portion, which was the mind of God in that caſe, and if any did deviate from it, you cannot think but that it was a tranſgreſſion of the Law, for if you obſerve, you ſhall find divers Laws enacted in that manner, which they ought not to exceed; but if any did tranſgreſſe, it was generally in the minor then major, rather in giving him not ſo much, then allowing more, as is manifeſt by their generall practiſe in the old Teſtament.</p>
+                  <p>The new Teſtament likewiſe holds it forth, as is clear by the younger brothers coming to Chriſt to divide the inheritance, ſo in the Parable of the Prodigall, how boldly cometh he to his Father, and ſaith, <hi>give me the portion that belongeth to me,</hi> and after we read that he divided unto them his living, though theſe be no abſolute precepts; yet it is an inſtruct<g ref="char:EOLhyphen"/>ing parable, and likewiſe holds forth the cuſtomes, then likewiſe uſed, by vertue of <hi>Moſes</hi> diviſion. It was likewiſe practiſed in the firſt primitive times, as alſo of later years, as <hi>Conſtantine</hi> the firſt Chriſtian Emperor, <hi>Theodoſius</hi> with many others, as may be made good.</p>
+                  <p>This being now likewiſe the practiſe of our Neighbour nation, as alſo of ſome members nations of this Kingdome, being as they ſay moſt agree<g ref="char:EOLhyphen"/>able to gods word, and the Law of nature, and ſo ſtrictly obſerved, that if ſome Parents do tranſgreſſe, the Magiſtrate hath power to diſpoſe of it
+<pb n="10" facs="tcp:125195:18"/>
+accordingly, more inſtances might be brought, which for brevity I omit, eſpecially from thoſe who endeavour without partiality<g ref="char:punc">▪</g> to make the Di<g ref="char:EOLhyphen"/>vine word the rule, and ground of their Lawes; For amongſt Chriſtians the teſtimony of Gods word alone and above all ſhould have ſufficient Ma<g ref="char:EOLhyphen"/>jeſty to anſwer all oppoſitions; It ſhould be their <hi>ipſe dixit,</hi> in which they ought to acquieſce. What ſuperexcellencie is in the Eldeſt beyond the reſt, they are of the ſame extract, members and branches of the ſamebody, as lawfully begotten, nay, many times more legitimate; hath not God like<g ref="char:EOLhyphen"/>wiſe in ſcripture often expreſſed more peculiar favours to younger then to the Elder, as to <hi>Abel, Jacob, Ioſeph, David,</hi> &amp;c.</p>
+                  <p>I do not denie but that there is a priority, a precedency of place, a civil reſpect due to the Elder from the younger; And before the Law, a bleſſing and ſpeciall priviledge and prerogative annexed to their Birth, but I have not read that by vertue of that birthright, that then they had power to detain al the inheritance from the younger (much leſſe ought they now ſo to do) <hi>Eſau</hi> ſelling his birthright, ſold not his goods and Lands, but his claim of being Prieſt with other priviledges, after his Father, as for the rule they had over the Family, the world then being in its infancy, that people might not be left to their own fancy, and every one do what ſeemed good in his own eyes, and to avoid confuſion, ſtrife, and emulation; it was then ordaind, that the Elder ſhould have the rule of the reſt, for as the caſe then ſtood, if any order and government, there muſt be a prior and poſterior; it is moſt requiſite and meet, that the Elder (if qualified) rather then any of the reſt ſhould enjoy that privi<g ref="char:EOLhyphen"/>ledge.</p>
+                  <p>This Family-Government about <hi>Moſes</hi> and <hi>Aarons</hi> time (people being more multiplyed) ceaſed, after which time they could plead no ſuch prerogatives, neither then was this priviledge ſo generall and inevita<g ref="char:EOLhyphen"/>ble (the Elder wanting other qualifications to accompany his birthright) that very often the younger was preferred before him.</p>
+                  <p>However they may again alledge: that 'tis neceſſary and convenient that this Engliſh Cuſtome ſhould be continued, for the name, reputation, and upholding the houſe and Family, for a ſanctuary and refuge for younger brothers, and likewiſe that there might be perſons of ſufficient eſtates and abilities for the execution and managing of the offices and charges of the Commonwealth, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Theſe allegations may ſeem plauſible and of ſome force, eſpecially a<g ref="char:EOLhyphen"/>mongſt Heathens and Tyrants, which allow many things as commenda<g ref="char:EOLhyphen"/>ble, which in a Chriſtian ſtate ſhould be moſt odious, for ſuch ſtates ſquare
+<pb n="11" facs="tcp:125195:18"/>
+out their form not by pious rules, but by the judgement of their ſenſuall appetites, where any thing is allowable that will help it for<g ref="char:EOLhyphen"/>ward, more reſpecting greatneſſe then equity and goodneſſe, but the impoveriſhing of many for the enriching of one (contrary to the pat<g ref="char:EOLhyphen"/>tern in the Mount) the debaſing and pulling down of many for the elevation of one, eſpecially naturall bretheren, members and bran<g ref="char:EOLhyphen"/>ches of the ſame natural body, ſhould not be with us (<hi>conſuetudo Cedat authoritati divinae</hi>) it is the ſpeech of a Heathen. <hi>Tully</hi> as I remem<g ref="char:EOLhyphen"/>ber, that if a law bee made contrary to the Law of God, it is not to be called a Law, though all the world in a joint aſſembly confirm it; we muſt not frame arguments of conveniencie to conclude againſt the teſtimony of holy writ, the ſtate muſt com<g ref="char:EOLhyphen"/>ply with it, and not the rule to the ſtate; it is the preferment of the precepts of divine writ, before humane policie, that diſcovereth ſound Chriſtian ſtates from Athiſticall and heatheeniſh infidells.</p>
+                  <p>What naturall juſtice and reaſon is it, that the upholding of the houſe ſhould be onely applyed to the Eldeſt (like ſome Churchmen that count no good done to the Church of God but what is for their peculiar benefit) as if the other were baſtards and no ſons, ſervants, Aliens, and not of the ſame blood and relation; why ſhould the due maintenance of the younger be taken from them to be ſpent upon meer ſtrangers; in haukes, hounds, and that many times <hi>Acteon</hi>-like, they and their children are devoured of them, in Luxurie, Pride, Prodigality, with other exorbitances. Why ſhould the elder bro<g ref="char:EOLhyphen"/>thers multitude of attendance and ſervants be maintained by that which belongeth to the younger brother. None ſhould be deprived of their due, though to build Hoſpitalls, much leſſe to be ſpent upon extravagant humours.</p>
+                  <p>The ſpreading of a Family was held to be one of the greateſt tem<g ref="char:EOLhyphen"/>porall bleſſings, but now many Parents (as it ſeems) conceive it a greater bleſſing to ſuppreſſe the greateſt part, imitating therein the great Turke in ſome meaſure, who for the greatneſſe of one, deſtroy<g ref="char:EOLhyphen"/>eth the reſt; is not a houſe, a name better upheld by more props then one, that one failing, as very often it doth, then all falls to the ground; is it not an overſight in Parents, that they ſhould be more carefull to provide for the profuſeneſſe, vanity, and unneceſſary ex<g ref="char:EOLhyphen"/>pences of the Elder, then the competent and comfortable neceſſities and livelyhood of the younger. As for being a ſanctuary &amp; refuge to
+<pb n="12" facs="tcp:125195:19"/>
+the younger; I cannot but confeſſe, but that many elder brothers, (to their ſuperlative praiſes be it ſpoken) doe deal moſt ingenuouſly in that nature, not onely out of conſcience, but likewiſe moved thereun<g ref="char:EOLhyphen"/>to by Heroick noble principles, but examples in that kind are rare, generally this Sanctuary proveth but a weake priviledge, a ſlender refuge, feeding them like a bird in a Cage: and too often ma<g ref="char:EOLhyphen"/>king them by their unnaturall imperiouſneſſe, to live in an uncom<g ref="char:EOLhyphen"/>fortable condition, moſt unlike their own bretheren. This reaſon is of<g ref="char:EOLhyphen"/>ten alledged by many before therebe occaſion to uſe them, but then diſclaimed with many pretences, and often like the Devil, plead<g ref="char:EOLhyphen"/>ing ſcripture for their unnaturall inhumanity, though it be expreſly againſt it; Inordinate affections taking place beyond the neceſſities of their naturall bretheren; occaſioned often I confeſſe by their too much uxoriouſneſſe, and eſpecially their wives being of a malevolent genius, and troubled with that Tripl <hi>P.</hi> of Pride, penuriouſneſſe, and perverſneſſe, daily experience manifeſteth, how apt men are to be drwawn away to this unnaturallneſſe rather then meliorated by precepts; how neceſſary therefore is there of a law<g ref="char:punc">▪</g> to regulate them.</p>
+                  <p>For that other plea that they might be of abilities for executing offices, and the Charges of the Kinhdome.</p>
+                  <p>This might formerly have carried ſome ſhew of pretence, when their charges by exactions were far greater; but not near propor<g ref="char:EOLhyphen"/>tionable to that vaſt difference, thoſe offices of charge coming but ſeldome, and not generall, in a manner but once in an age, ſo great expences likewiſe were often occaſioned more out of a profuſe and vain glorious humour, then any waies eſſentiall to their office or charge.</p>
+                  <p>I am ſure great wiſdome is not alwaies accompanied with great riches, however wee need not doubt but men of ſufficient abilities will be found for ſuch charges, who have not many younger brothers to provide for.</p>
+                  <p>But why ſhould the Magiſtracie, offices, and charges of the King<g ref="char:EOLhyphen"/>dome be upheld and maintained by the younger brothers; I am ſure in thoſe ſtates where this unequall diſtribution is not practiſed, Ma<g ref="char:EOLhyphen"/>giſtrates are maintained with reverence, office, and charges, duly ex<g ref="char:EOLhyphen"/>ecuted, and juſtice as impartially adminiſtred; if they cannot be exe<g ref="char:EOLhyphen"/>cuted but with ſuch charge and majeſty, let it be born by publick contribution, as in other places, for as they ought not to conſume and impoveriſh their inferiours, ſo ſhould not they exhauſt them<g ref="char:EOLhyphen"/>ſelves, for this cauſe ſaith <hi>Paul,</hi> pay you tribute.</p>
+                  <p>
+                     <pb n="13" facs="tcp:125195:19"/>They will however object againſt us, for the upholding of this unnaturall cuſtome, that induſtry might not decay, that having ſo weak means, we might be thereby provoked to im<g ref="char:EOLhyphen"/>ployment?</p>
+                  <p>
+                     <hi>A.</hi> We ought to be driven in imployments upon better prin<g ref="char:EOLhyphen"/>ciples, then by injuring us being innocent; the ſame argument may be reverberated upon them, why ſhould they have a writ of eaſe from induſtry; their profuſeneſſe and ill ex<g ref="char:EOLhyphen"/>amples often cauſing more idleneſſe, and doing more injury to the Common-wealth, by breeding idle attendance; why ſhould not the Elder of many younger ſubmit to provi<g ref="char:EOLhyphen"/>dence; why ſhould the witts of the younger be ſo much put up<g ref="char:EOLhyphen"/>on the wrack and tenterhookes, and their ſmall alowance of<g ref="char:EOLhyphen"/>ten put upon hazzardous adventures, thereby if they can to en<g ref="char:EOLhyphen"/>able them to live in ſome good manner, and in ſome proportion to the ſonns of their Father<g ref="char:punc">▪</g> may not the Elder advance their Eſtates, they having not onely advantage of meanes, but like<g ref="char:EOLhyphen"/>wiſe an other double advantage of us in their Education and years; the Parents often being taken away, before the younger are acquainted with the affairs of the world, for the better managing of their poor pittance, which cauſeth them very often to receive a foyle, they being then driven <hi>Nolens, Volens,</hi> to be idle or do worſe.</p>
+                  <p>The younger brothers idleneſſe ariſing more for want of means and due Education, which being rectified, they cannot, they will not be idle; let not their ſufferings be coun<g ref="char:EOLhyphen"/>ted a fault, however their idleneſſe may be prevented at firſt by the diſcretion and policie of Parents, as in other Countries who more induſtrious and thriving then they.</p>
+                  <p>They have likewiſe another objection to encounter with us, which is that threefold diſtinction (which ſome make of <hi>Moſes</hi> Law) of Morrall, Ceremoniall, and Civill or Judici<g ref="char:EOLhyphen"/>all; The ceremoniall that being wholly abrogated by divine precept; the Politick or Civill, that being not binding to us, but framed particularly for the Common-Wealth of the Jewes, and that it is left to the prudence of every nation to<g ref="char:EOLhyphen"/>eſtabliſh
+<pb n="14" facs="tcp:125195:20"/>
+conſtitutions of their own, ſo that the Morall part is onely now obliging to us.</p>
+                  <p>If according to this diviſion it be not of force, why is the obſervation of it of ſuch power with us, and ſo much preſſed upon the conſcience, by ſome meerly upon that ac<g ref="char:EOLhyphen"/>count (as may be inſtanced in the degrees of marriage with other things) it being by this notion no waies obliging to the conſcience, but it ſeems ſometimes it is binding, ſometimes not; neither do I conceive ought it to be ſo far neglected, in this particular as it is, ſo much diſreſpected and tro<g ref="char:EOLhyphen"/>den under foot; for certainly ſuch lawes, that have their firſt inſtitution and practice, from the moſt juſt, equall and na<g ref="char:EOLhyphen"/>turall grounds, and from the beſt and moſt excellent Authors, are orought to be ever in higheſt eſteem and accompt, and imitated of all wiſe, vertuous, conſcientious, and temperate ſpirits; ſo ſhould the contrary bring much diſcredit and diſre<g ref="char:EOLhyphen"/>gard unto thoſe cuſtomes that have their firſt originall from corrupt and barbarous principles: Now the wiſdome of God eſtabliſhing this, <hi>Moſes</hi> receiving it immediately from God, (not at the ſecond hand) not in a viſion and dream, but mouth to mouth, which is the cleareſt and fulleſt revelation. In which inſtitution, there is nothing, ceremoniall, Judaical, or Typicall; but being of a morall nature, hath a perpetuall morall equi<g ref="char:EOLhyphen"/>ty and juſtice in it, founded on the Law of nature, and right reaſon (which ought to be alike in all places.) Thoſe lawes are juſt and equall (ſaith that learned, pious and judicious Divine, <hi>Pet. Du Moulin,</hi> which being founded on nature, are conſentaneous to the Law of God; Is it not apparent likewiſe in St. <hi>Matthewes</hi> Goſpell, that no uſage, or cuſtome ought to deſtroy a right ground upon an univerſall law of God.</p>
+                  <p>As how can there be an example of greater and more re<g ref="char:EOLhyphen"/>verent authority, and better rule of reaſon and naturall juſtice, a ſurer way for the prepetuating of Families, who pro<g ref="char:EOLhyphen"/>miſed it as ſo great a bleſſing; certainly his bleſſings and laws are not contradictorie; let us not make our ſelves wiſer then our maker.</p>
+                  <p>
+                     <pb n="15" facs="tcp:125195:20"/>Nay, is it not a queſtion made by ſome, whether or noe this cuſtome of ours be not a national ſinne againſt the eighth Commandement; for according to the opinion of the learned, it hath relation to the Judiciall or Civill lawes of <hi>Moſes,</hi> they being branches and particular explanations of the morall law; And you know publick eſtabliſhment and connivence, or Common practice, and a generall inſenſibleneſſe, maketh ſins to be national; let not the Mahometan ſhame us, they follow their Alcaron; let not us ſo much prejudice the teſtimony, authority and practice of the ſcripture, and primitive times, and reformed Churches, nor ſo far forget our principles.</p>
+                  <p>So that I cannot ſee, but that a more equall diviſion, then is ge<g ref="char:EOLhyphen"/>rally practiſed with us amongſt brethren, is more agreable to ſcripture, right reaſon, naturall juſtice, and no prejudice to the flouriſhing condition of a Nation, and true happineſſe of a Commonwealth.</p>
+                  <p>Let us therefore make our humble addreſſes unto our Legiſlators, who make ſo great, ſo many profeſſions, and proteſtations of protecting and promoting natural juſtice equity, and liberty, that they would be pleaſed to take in<g ref="char:EOLhyphen"/>to conſultation this our ſad and deplorable condition, this grand Monopoly, ſo ſilently remaining yet amongſt us, that either there may be a more equall diſtribution, (then now is generally uſed) in ſome proportion to our Parents Eſtates and conditions amongſt brethren; or that ſome equivalent expedi<g ref="char:EOLhyphen"/>ent, may be found out for us, that we may not be more ſuffe<g ref="char:EOLhyphen"/>ring, and more injuriouſly delt with, then the younger bre<g ref="char:EOLhyphen"/>theren of other Nations, (who have made much leſſe pro<g ref="char:EOLhyphen"/>feſſion then wee) there being in thoſe Countries (where a more equall diviſion is not practiſed) ſome ſpeciall privi<g ref="char:EOLhyphen"/>ledges, prerogatives, and advantages peculiar to them, as alſo Monaſteries, Nunneries, with other helps and proviſion, which here now we have not, and which at the firſt originall of this cuſtome with us we did enjoy; Parents then often uſing that way of proviſion for their younger children, thereby (accor<g ref="char:EOLhyphen"/>ding to the humour, and mode of thoſe time;) rendering them in a leſſe deſpicable condition, and more comfortable ſubſiſtance then now, all which being taken away, this cuſtome notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="16" facs="tcp:125195:21"/>
+continueth without any ſupply. why ſhould not younger brothers receive ſome benefit of the free<g ref="char:EOLhyphen"/>dome and liberty which is ſo much pretended?</p>
+                  <p>Let us likewiſe offer to their conſideration, that a more harmonical diviſion &amp; proportion wil not diminiſh the ſtrength, honor nor happineſſe of the Kingdome, but may rather en<g ref="char:EOLhyphen"/>creaſe it, and likewiſe cauſing Parents to be more provident and moderate in divers exorbitances, as alſo how that the clear rayes and principles of our religion hath diſpelled ville<g ref="char:EOLhyphen"/>nage (ſo that now it is become the beſt tenure) let it likewiſe take ſome place in this, which to ſome is little better; and laſtly let them conſider the perpetuall honor and renown, that will redound to them for it, and how they will perpetu<g ref="char:EOLhyphen"/>ally engage and oblige, not onely no ſmall number<g ref="char:punc">▪</g> but thoſe likewiſe generally of good reſolutions.</p>
+                  <p>Now if thoſe our applications ſhould be rejected with repul<g ref="char:EOLhyphen"/>ſive complements (Dominion I confeſſe being ſo tempting a bit, and ſo pleaſing a morſell, that it too often tempteth the moſt temperate palates)<g ref="char:punc">▪</g> and that we find no other redreſſe then good or ill language; let us leave no ſtone unturned, but let us notwithſtanding make our further ſupplications, that either wee may have ſome peculiar priviledge in ſome generous way or calling here, or elſe in ſome noble undertaking, or plantation abroad, by a publick countenance and aſſiſtance, where we wil frame a policie and government according to our own mode, and eſtabliſht decrees and conſtituti<g ref="char:EOLhyphen"/>ons of our own, which for the preſent I ſhall omit, leaving all to the conſiderati<g ref="char:EOLhyphen"/>on and wiſdome of our Superiours.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
